@@ -51,26 +51,27 @@ npm run preview - Preview production build
 
 ## Project Structure
 safeway-app/
-├── src/
-│   ├── components/
-│   │   ├── BottomNav.jsx
-│   │   ├── ContactsTab.jsx
-│   │   ├── FeedTab.jsx
-│   │   ├── NavigationView.jsx
-│   │   ├── ReportTab.jsx
-│   │   ├── RoutesTab.jsx
-│   │   ├── SafetyTab.jsx
-│   │   └── StatusBar.jsx
-│   ├── data/
-│   │   └── mockData.js
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── postcss.config.js
+src/
+components/
+BottomNav.jsx
+ContactsTab.jsx
+FeedTab.jsx
+NavigationView.jsx
+ReportTab.jsx
+RoutesTab.jsx
+SafetyTab.jsx
+StatusBar.jsx
+
+data/
+mockData.js
+App.jsx
+main.jsx
+index.css
+index.html
+package.json
+vite.config.js
+tailwind.config.js
+postcss.config.js
 
 ## Design
 The app features a dark theme with green accents, following the high-fidelity prototype design. It includes:
