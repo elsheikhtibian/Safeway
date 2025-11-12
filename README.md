@@ -1,7 +1,7 @@
 # Safeway
 Safeway is a safety-first navigation app designed to make walking alone at night feel less uncertain and more confident. 
 
-This is a project I did for my UX Design class and thought I could pick it up as a side project.
+This is a project I designed for my User Experience class and thought I could pick it up as a coding side project and bring it to life.
 
 The structure of the app is as follows:
 
